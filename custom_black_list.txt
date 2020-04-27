@@ -1,6 +1,10 @@
 0.0.0.0 dailymail.co.uk
-0.0.0.0 worldstarhiphop.com
-0.0.0.0 vice.com
-0.0.0.0 cnn.com
 0.0.0.0 www.dailymail.co.uk
+0.0.0.0 worldstarhiphop.com
+0.0.0.0 www.worldstarhiphop.com
+0.0.0.0 www.vice.com
+0.0.0.0 vice.com
 0.0.0.0 www.cnn.com
+0.0.0.0 cnn.com
+0.0.0.0 bloomberg.com
+0.0.0.0 www.bloomberg.com
