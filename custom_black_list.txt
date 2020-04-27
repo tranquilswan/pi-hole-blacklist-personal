@@ -8,3 +8,8 @@
 0.0.0.0 cnn.com
 0.0.0.0 bloomberg.com
 0.0.0.0 www.bloomberg.com
+0.0.0.0	forum.bodybuilding.com
+0.0.0.0 www.reddit.com
+0.0.0.0 reddit.com
+0.0.0.0 old.reddit.com 
+0.0.0.0 www.old.reddit.com 
